@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Meu Primeiro Post no Blog"
+date: 2024-09-30
+author: "Arthur Madureira"
+categories: [blog, desenvolvimento]
+tags: [markdown, jekyll, exemplo]
+---
+
+# Bem-vindo ao meu primeiro post!
+
+Este é o conteúdo do meu primeiro post em Markdown usando **Jekyll**. Aqui vou falar sobre como usar Markdown para escrever posts.
+
+## O que é Markdown?
+
+Markdown é uma linguagem de marcação leve que você pode usar para adicionar formatação ao texto. Por exemplo, você pode criar listas:
+
+### Lista ordenada:
+
+1. Primeiro item
+2. Segundo item
+3. Terceiro item
+
+### Lista não ordenada:
+
+- Item 1
+- Item 2
+- Item 3
+
+## Adicionando código
+
+Você também pode adicionar blocos de código ao seu post. Veja um exemplo em JavaScript:
+
+```javascript
+console.log("Olá, mundo!");
